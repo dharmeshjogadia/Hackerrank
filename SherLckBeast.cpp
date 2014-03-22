@@ -1,7 +1,7 @@
 /*
 
 Sherlock and The Beast
-
+link:https://www.hackerrank.com/challenges/sherlock-and-the-beast
 */
 #include<iostream>
 #include<string>
